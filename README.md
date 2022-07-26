@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Dev student
 ---------------
 
-I did a bachelor's degree in History and German before I found my interest for Web Development. Now I want to become a Frontend Developer and am currently enrolled as a web dev student at neuefische.
+I did a bachelor's degree in History and German before I found my passion for Web Development. I graduated from a Web Development bootcamp at neuefische - School and Pool for Digital Talents in July 2022. Now I want to work as a Junior Frontend Developer!
 
 * 🌍  I'm based in Trier
 * ✉️  You can contact me at [laura.kesel@gmail.com](mailto:laura.kesel@gmail.com)
