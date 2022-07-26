@@ -8,7 +8,7 @@ I did a bachelor's degree in History and German before I found my passion for We
 
 * 🌍  I'm based in Trier
 * ✉️  You can contact me at [laura.kesel@gmail.com](mailto:laura.kesel@gmail.com)
-* 🚀  I'm currently working on [Capstone Project 'PlatePlan'](http://capstone-project-lkk95.vercel.app)
+* 🚀  I'm currently working on my [Capstone Project 'PlatePlan'](http://capstone-project-lkk95.vercel.app)
 
 ### Skills
 
