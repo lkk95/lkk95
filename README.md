@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Laura Kesel
 ===================================================================================================================================
 
-Web Dev student
+Junior Frontend Developer
 ---------------
 
-I did a bachelor's degree in History and German before I found my passion for Web Development. I graduated from a Web Development bootcamp at neuefische - School and Pool for Digital Talents in July 2022. Now I want to work as a Junior Frontend Developer!
+I am currently working as a Junior Frontend Developer at orchIT GnmbH as first position after I did a Web Development Bootcamp with neuefische. 
 
 * 🌍  I'm based in Trier
 * ✉️  You can contact me at [laura.kesel@gmail.com](mailto:laura.kesel@gmail.com)
-* 🚀  I'm currently working at orchIT GmbH
 
 ### Skills
 
