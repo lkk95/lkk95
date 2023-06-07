@@ -1,7 +1,7 @@
 Junior Frontend Developer
 ---------------
 
-I am currently working as a Junior Frontend Developer at orchIT GnmbH as first position after I did a Web Development Bootcamp with neuefische. 
+I am currently working as a Junior Frontend Developer at orchIT GmbH as first position after I did a Web Development Bootcamp with neuefische. 
 
 * 🌍  I'm based in Trier
 * ✉️  You can contact me at [laura.kesel@gmail.com](mailto:laura.kesel@gmail.com)
