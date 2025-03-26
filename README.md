@@ -1,7 +1,7 @@
 ## Hi, I'm Laura, welcome to my profile! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-I'm a former frontend developer with a background in humanities, now transitioning into technical writing. With a degree in History and German Studies, I honed my ability to communicate complex ideas clearly. After a web development bootcamp, I worked as a Junior Frontend Developer at orchit GmbH, building the UI of the company product as pasrt of the Frontend Tean.
+I'm a former frontend developer with a background in humanities, now transitioning into technical writing. With a degree in History and German Studies, I honed my ability to communicate complex ideas clearly. After a web development bootcamp, I worked as a Junior Frontend Developer at orchit GmbH, building the UI of the company product as part of the Frontend Tean.
 
 Along the way, I discovered my passion for making technical concepts accessible. Now, I'm currently looking into additional training to become a Technical Writer.
 
